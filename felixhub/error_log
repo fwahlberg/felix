@@ -1,0 +1,984 @@
+[05-Jan-2017 10:57:19 UTC] PHP Fatal error:  Class 'Prep' not found in /home/felixwahlberg/public_html/felix.php on line 12
+[05-Jan-2017 10:57:52 UTC] PHP Fatal error:  Class 'Prep' not found in /home/felixwahlberg/public_html/felix.php on line 12
+[05-Jan-2017 11:26:44 UTC] PHP Fatal error:  include(): Cannot redeclare class prep in /home/felixwahlberg/public_html/felix.php on line 4
+[05-Jan-2017 12:09:24 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/allpreps.php on line 3
+[05-Jan-2017 12:10:26 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/felix.php on line 18
+[05-Jan-2017 12:11:33 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/felix.php on line 18
+[05-Jan-2017 12:12:27 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/felix.php on line 18
+[05-Jan-2017 12:12:45 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:13:39 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:13:41 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:13:48 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:14:07 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:15:03 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:17:15 UTC] PHP Fatal error:  Call to a member function setDueDate() on a non-object in /home/felixwahlberg/public_html/felix.php on line 19
+[05-Jan-2017 12:18:54 UTC] PHP Fatal error:  Call to a member function getTaskName() on a non-object in /home/felixwahlberg/public_html/classes/Render.php on line 6
+[05-Jan-2017 12:19:22 UTC] PHP Fatal error:  Call to a member function getTaskName() on a non-object in /home/felixwahlberg/public_html/classes/Render.php on line 6
+[05-Jan-2017 12:19:25 UTC] PHP Fatal error:  Call to a member function getTaskName() on a non-object in /home/felixwahlberg/public_html/classes/Render.php on line 6
+[05-Jan-2017 12:19:54 UTC] PHP Fatal error:  Call to a member function getTaskName() on a non-object in /home/felixwahlberg/public_html/classes/Render.php on line 6
+[05-Jan-2017 12:29:47 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/allpreps.php on line 3
+[05-Jan-2017 12:31:26 UTC] PHP Fatal error:  include(): Cannot redeclare class prep in /home/felixwahlberg/public_html/allpreps.php on line 2
+[05-Jan-2017 12:31:47 UTC] PHP Fatal error:  Call to a member function setTaskDescription() on a non-object in /home/felixwahlberg/public_html/allpreps.php on line 3
+[05-Jan-2017 12:32:12 UTC] PHP Fatal error:  Call to a member function addPrep() on a non-object in /home/felixwahlberg/public_html/felix.php on line 18
+[05-Jan-2017 15:58:31 UTC] PHP Fatal error:  Call to undefined function password_hash() in /home/felixwahlberg/public_html/includes/register.inc.php on line 77
+[05-Jan-2017 16:10:28 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/felixwahlberg/public_html/index.php on line 3
+[05-Jan-2017 16:10:28 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/felixwahlberg/public_html/index.php on line 3
+[05-Jan-2017 16:10:28 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/felixwahlberg/public_html/index.php on line 31
+[05-Jan-2017 16:10:28 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/felixwahlberg/public_html/index.php on line 31
+[05-Jan-2017 16:13:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:13:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:15:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:15:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:15:30 UTC] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:15:30 UTC] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:16:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:16:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:16:26 UTC] PHP Warning:  include(/home/felixwahlberg/public_html/includes../login.php): failed to open stream: No such file or directory in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:16:26 UTC] PHP Warning:  include(): Failed opening '/home/felixwahlberg/public_html/includes../login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:16:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:16:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:16:41 UTC] PHP Warning:  include(/home/felixwahlberg/public_html/includes../login.php): failed to open stream: No such file or directory in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:16:41 UTC] PHP Warning:  include(): Failed opening '/home/felixwahlberg/public_html/includes../login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/felixwahlberg/public_html/includes/header.php on line 98
+[05-Jan-2017 16:17:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:17:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:21:56 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:21:56 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:22:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:22:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:24:28 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:24:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:25:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:25:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:25:47 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 11
+[05-Jan-2017 16:25:47 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 48
+[05-Jan-2017 16:29:05 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:29:05 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:29:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:29:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:29:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:29:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:31:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:31:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:31:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:32:06 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:32:06 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:32:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:32:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:32:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:32:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:33:01 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:33:01 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:33:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:33:04 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:33:04 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:33:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:33:09 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:33:09 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:33:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:33:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:33:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:33:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:34:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:34:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:34:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:34:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:34:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:34:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:35:06 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:35:06 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:35:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:36:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:36:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:36:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:36:49 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:36:49 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:36:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:37:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:37:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:37:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:41:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:41:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:41:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:41:48 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 16:41:53 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 16:42:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:42:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:42:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:44:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:44:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:44:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:46:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:46:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:46:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:48:52 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:48:52 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:48:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:51:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:51:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:51:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:51:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:51:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:51:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:53:52 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:53:52 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:53:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:54:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:54:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:54:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:56:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:56:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:56:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:57:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:57:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:57:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:58:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:58:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:58:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 16:59:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 16:59:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 16:59:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:00:27 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:00:27 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:00:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:01:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:01:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:01:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:03:23 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:03:23 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:03:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:04:02 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:04:02 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:04:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:05:32 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:05:32 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:05:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:06:37 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:06:37 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:06:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:06:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:06:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:06:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:07:46 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:07:46 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:07:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:08:21 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:08:21 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:08:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:09:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:09:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:09:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:09:44 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:09:44 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:09:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:10:52 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:10:52 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:10:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:11:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:11:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:11:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:11:21 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:11:21 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:11:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:12:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:12:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:12:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:13:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:13:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:13:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:14:16 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:14:16 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:14:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:15:02 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:15:02 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:15:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:16:47 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:16:47 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:16:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:17:06 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:17:06 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:17:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:17:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:17:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:17:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:17:57 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:17:57 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:17:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:18:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:18:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:18:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:18:37 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:18:37 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:18:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:20:21 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:20:21 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:20:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:21:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:21:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:21:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:21:54 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:21:54 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:21:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:23:56 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:23:56 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:23:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:24:06 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:24:06 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:24:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:24:11 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:24:11 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:24:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:24:34 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:24:34 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:24:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:25:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:25:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:25:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:25:43 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:25:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:25:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:25:52 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:25:52 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:25:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:26:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:26:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:26:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:26:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:26:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:26:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/includes/functions.php on line 27
+[05-Jan-2017 17:26:54 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:26:54 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:26:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:26:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:26:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:26:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:28:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:28:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:28:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:29:20 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:29:20 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:29:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:30:11 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:30:11 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:30:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:30:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:30:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:30:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:30:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:30:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:30:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:31:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:32:58 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:32:58 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:32:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:33:06 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:33:06 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:33:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:33:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:33:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:33:48 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:33:48 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:33:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:34:23 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:34:23 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:34:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:37:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:37:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:37:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:37:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:38:15 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:38:15 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:38:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:38:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:38:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:38:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:39:01 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:39:01 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:40:32 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:40:32 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:41:33 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:41:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:41:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:41:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:43:21 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:43:21 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:43:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:44:43 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:44:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:45:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:45:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:45:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:45:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:02 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:46:02 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:08 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:46:08 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:16 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:46:16 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:46:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:46:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:46:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:47:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:47:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:47:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:48:40 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:48:40 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:48:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:48:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:48:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:48:52 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:48:52 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:48:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 17:49:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:49:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:50:51 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 17:50:55 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 17:50:58 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 17:51:17 UTC] PHP Fatal error:  Call to undefined function login_check() in /home/felixwahlberg/public_html/login.php on line 6
+[05-Jan-2017 17:51:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:51:42 UTC] PHP Notice:  Undefined variable: pageTitle in /home/felixwahlberg/public_html/includes/header.php on line 29
+[05-Jan-2017 17:51:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:51:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 4
+[05-Jan-2017 17:51:56 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:51:56 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:51:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:51:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:51:59 UTC] PHP Fatal error:  Cannot redeclare sec_session_start() (previously declared in /home/felixwahlberg/public_html/includes/functions.php:5) in /home/felixwahlberg/public_html/includes/functions.php on line 29
+[05-Jan-2017 17:52:36 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 17:52:36 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 17:52:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:48:57 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:48:57 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:48:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:56:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:56:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:56:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:56:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:56:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:56:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:57:09 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:57:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:57:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:57:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:57:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:57:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:57:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:57:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:58:17 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:58:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:58:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:58:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:58:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 19:58:28 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:58:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:58:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:58:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:58:32 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:58:32 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 19:58:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 19:58:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 21:37:33 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 21:37:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 21:37:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[05-Jan-2017 21:42:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[05-Jan-2017 21:42:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[05-Jan-2017 21:42:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 01:07:11 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 01:07:11 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 01:07:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 01:07:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 01:07:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 01:07:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 03:27:20 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 03:27:20 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 03:27:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 08:48:57 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 08:48:57 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 08:48:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 09:42:21 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 09:42:21 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 09:42:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 09:50:25 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 09:50:25 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 09:50:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 11:26:36 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 11:26:36 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 11:26:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 11:26:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 11:26:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 11:28:05 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 11:28:05 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 11:28:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 11:28:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 11:28:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 11:28:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 19:22:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 19:22:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 19:22:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 19:22:44 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 19:22:44 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 19:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 19:22:49 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 19:22:49 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 19:22:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:18:33 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:18:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:18:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:18:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:18:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:18:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:18:58 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:18:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:28:50 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:28:50 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:28:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:28:56 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:28:56 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:29:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:29:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:29:24 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:29:24 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:29:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:29:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:29:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:31:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:31:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:31:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:31:29 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:31:29 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:31:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:31:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:31:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:31:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:31:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:31:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:31:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:31:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:31:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:32:02 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:32:02 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 20:32:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 20:32:17 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 20:32:17 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 22:00:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 22:00:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 22:00:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 22:02:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 22:02:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 22:02:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[06-Jan-2017 23:37:27 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[06-Jan-2017 23:37:27 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[06-Jan-2017 23:37:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 01:46:01 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 01:46:01 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 01:46:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 05:39:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 05:39:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 05:39:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 06:01:43 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 06:01:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 06:01:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 06:04:48 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 06:04:48 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 06:04:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 08:14:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 08:14:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 08:14:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 08:16:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 08:16:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 08:16:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:06:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:06:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:06:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:06:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:07:36 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:07:36 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:07:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:07:43 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:07:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:07:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:09:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:09:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:09:34 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:09:34 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:09:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:09:57 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:09:57 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:10:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:10:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:10:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:10:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:10:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:10:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:22:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:29 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:32 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:22:32 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:39 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:22:39 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:22:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:46:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 14
+[07-Jan-2017 10:46:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 51
+[07-Jan-2017 10:46:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 10:58:07 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:58:10 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:58:12 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:58:41 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:59:04 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:59:07 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 10:59:36 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 10:59:36 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:00:40 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 11:00:50 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 11:01:33 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 11:01:53 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 11:02:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:02:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:02:31 UTC] PHP Fatal error:  Cannot declare property DatabaseHandler::$host final, the final modifier is allowed only for methods and classes in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 4
+[07-Jan-2017 11:03:12 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:03:12 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:03:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:03:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:03:37 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:03:37 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:03:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:03:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:03:51 UTC] PHP Notice:  Undefined property: DatabaseHandler::$pass in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 14
+[07-Jan-2017 11:03:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 29
+[07-Jan-2017 11:04:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:04:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:04:30 UTC] PHP Notice:  Undefined property: DatabaseHandler::$pass in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 14
+[07-Jan-2017 11:04:30 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 29
+[07-Jan-2017 11:04:47 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:04:47 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:04:47 UTC] PHP Notice:  Undefined property: DatabaseHandler::$db_name in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 29
+[07-Jan-2017 11:05:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:05:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:05:30 UTC] PHP Notice:  Undefined property: DatabaseHandler::$db_name in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 29
+[07-Jan-2017 11:06:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:06:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:06:22 UTC] PHP Notice:  Undefined property: DatabaseHandler::$db_name in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 29
+[07-Jan-2017 11:07:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:07:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:07:45 UTC] PHP Notice:  Undefined property: DatabaseHandler::$db_name in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 31
+[07-Jan-2017 11:08:58 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:08:58 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:08:58 UTC] PHP Notice:  Undefined property: DatabaseHandler::$db_name in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 30
+[07-Jan-2017 11:11:02 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:11:02 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 11:13:24 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 11:13:24 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 14:28:28 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 14:28:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 14:28:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 18:01:07 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 18:01:07 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 18:01:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 21:32:04 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 21:32:04 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 21:32:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 22:00:29 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 22:00:29 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 22:00:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[07-Jan-2017 22:37:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[07-Jan-2017 22:37:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[07-Jan-2017 22:37:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 04:48:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 04:48:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 04:48:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 05:08:44 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 05:08:44 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 05:08:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 06:14:08 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 06:14:08 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 06:14:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 07:40:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 07:40:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 07:40:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 09:45:29 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 09:45:29 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 09:45:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 09:46:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 09:46:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 09:46:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 17:04:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 17:04:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 17:04:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 20:50:48 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 20:50:48 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 20:50:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[08-Jan-2017 22:21:56 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[08-Jan-2017 22:21:56 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[08-Jan-2017 22:21:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 02:22:37 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 02:22:37 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 02:22:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 08:46:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 08:46:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 08:46:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 10:28:50 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:28:50 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:28:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:28:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:29:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:29:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:31:44 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:31:44 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:31:44 UTC] PHP Notice:  Undefined offset: 0 in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:31:47 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:31:47 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:31:47 UTC] PHP Notice:  Undefined offset: 0 in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:32:00 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:32:00 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:32:00 UTC] PHP Notice:  Array to string conversion in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:32:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:32:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:32:42 UTC] PHP Notice:  Undefined variable: result in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:32:54 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:32:54 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:32:54 UTC] PHP Notice:  Array to string conversion in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:33:12 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 10:33:12 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 10:33:12 UTC] PHP Notice:  Array to string conversion in /home/felixwahlberg/public_html/felix.php on line 30
+[09-Jan-2017 10:48:59 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 10:49:04 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 10:51:59 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 11:01:58 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 11:02:57 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 17
+[09-Jan-2017 11:03:19 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 17
+[09-Jan-2017 11:03:22 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 17
+[09-Jan-2017 11:03:37 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 11:03:37 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 11:03:40 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 11:03:40 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 11:03:40 UTC] PHP Fatal error:  Call to undefined method DatabaseHandler::insertPrep() in /home/felixwahlberg/public_html/felix.php on line 28
+[09-Jan-2017 11:03:56 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 31
+[09-Jan-2017 11:03:59 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 31
+[09-Jan-2017 11:04:32 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 11:04:32 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 11:16:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 11:16:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 11:16:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 30
+[09-Jan-2017 11:34:04 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 11:34:04 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 11:34:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 12:25:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 12:25:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 12:25:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 30
+[09-Jan-2017 12:26:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 12:26:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 12:26:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 12:26:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[09-Jan-2017 12:26:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[09-Jan-2017 12:26:14 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[09-Jan-2017 12:26:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 12:26:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 12:26:55 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[09-Jan-2017 12:26:55 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[09-Jan-2017 12:26:55 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[09-Jan-2017 12:26:55 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[09-Jan-2017 12:36:50 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 12:36:50 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 12:36:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 13:36:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 13:36:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 13:36:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 14:58:20 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 14:58:20 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 14:58:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 14:58:34 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 14:58:34 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 14:58:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 14:58:36 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 14:58:36 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 14:58:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 18:38:45 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 18:38:45 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 18:38:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 19:22:11 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 19:22:11 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 19:22:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 19:44:55 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 19:44:55 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 19:44:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 19:45:14 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 19:45:14 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 19:45:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[09-Jan-2017 20:49:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[09-Jan-2017 20:49:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[09-Jan-2017 20:49:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 06:34:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 06:34:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 06:34:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 06:49:23 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 06:49:23 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 06:49:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 08:33:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 08:33:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 08:33:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 08:48:50 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 08:48:50 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 08:48:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 10:35:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 10:35:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 10:35:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 16:02:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[10-Jan-2017 16:02:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[10-Jan-2017 16:02:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[10-Jan-2017 16:02:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[10-Jan-2017 16:02:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[10-Jan-2017 16:02:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[10-Jan-2017 16:02:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[11-Jan-2017 05:00:10 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 05:00:10 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 05:00:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[11-Jan-2017 06:49:42 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 06:49:42 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 06:49:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[11-Jan-2017 07:01:13 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 07:01:13 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 07:01:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[11-Jan-2017 09:43:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 09:43:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 09:43:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[11-Jan-2017 09:43:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[11-Jan-2017 09:43:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[11-Jan-2017 09:43:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[11-Jan-2017 09:51:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 09:51:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 15:31:04 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 15:31:04 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 15:31:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[11-Jan-2017 21:10:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[11-Jan-2017 21:10:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[11-Jan-2017 21:10:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[11-Jan-2017 21:10:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[11-Jan-2017 21:10:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[11-Jan-2017 21:10:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[11-Jan-2017 21:10:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[12-Jan-2017 03:47:40 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 03:47:40 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 03:47:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 06:25:19 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 06:25:19 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 06:25:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 12:49:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 12:49:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 12:49:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 13:14:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 13:14:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 13:14:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 15:46:05 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 15:46:05 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 15:46:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 16:11:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 16:11:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 16:11:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 16:55:27 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 16:55:27 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 16:55:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 17:14:43 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 17:14:43 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 17:14:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[12-Jan-2017 19:50:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[12-Jan-2017 19:50:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[12-Jan-2017 19:50:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 09:17:59 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 09:17:59 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 09:17:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 09:25:35 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 09:25:35 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 09:25:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 10:37:38 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:37:38 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:37:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:37:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:37:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:37:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:39:28 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:39:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:39:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:39:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:39:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:39:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:41:00 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:41:00 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:41:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:41:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:41:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:41:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:41:00 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 10:41:33 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:41:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:41:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:41:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:41:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:41:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:41:33 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 10:44:33 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:44:53 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:44:53 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:44:53 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 36
+[13-Jan-2017 10:44:53 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 10:45:30 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:45:30 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:45:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:45:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:45:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:45:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:45:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:45:30 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 10:46:18 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 10:46:18 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 10:46:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 10:46:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 10:46:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 10:46:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:46:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 10:46:18 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:01:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:01:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:01:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 11:01:26 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:01:26 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:01:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 11:01:44 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:01:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 11:01:47 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:01:47 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:01:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 11:01:51 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:01:51 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:02:00 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:02:00 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:02:28 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:02:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:02:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/felixwahlberg/public_html/login.php on line 5
+[13-Jan-2017 11:02:31 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:02:31 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:02:33 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:02:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:02:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:02:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:02:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:02:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:02:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:02:33 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:03:41 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:03:41 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:03:41 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:05:08 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:05:08 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:05:08 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:07:22 UTC] PHP Notice:  Undefined index: search in /home/felixwahlberg/public_html/includes/header.php on line 15
+[13-Jan-2017 11:07:22 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/felixwahlberg/public_html/includes/header.php on line 52
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 32
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 34
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 35
+[13-Jan-2017 11:07:22 UTC] PHP Notice:  Undefined property: PDOStatement::$execute in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 37
+[13-Jan-2017 11:17:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 11:33:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 12:06:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 12:37:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 12:37:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 19:18:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 19:52:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[13-Jan-2017 22:47:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 01:50:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 04:47:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 05:19:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 05:22:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 06:14:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 06:29:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 06:36:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 06:52:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 07:55:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 08:40:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 08:45:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 13:08:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 15:16:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 18:28:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 20:12:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 21:18:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 21:19:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[14-Jan-2017 21:59:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 05:11:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 08:08:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 09:15:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 10:41:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 12:15:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 17:39:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 18:41:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 19:14:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 21:30:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[15-Jan-2017 23:48:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 00:08:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 00:55:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 06:14:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 10:37:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 10:37:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 10:37:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 10:37:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 12:17:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33
+[16-Jan-2017 14:19:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/felixwahlberg/public_html/classes/DatabaseHandler.php on line 33

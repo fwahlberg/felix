@@ -1,0 +1,107 @@
+#logo{
+	width: 200px;
+	padding-left: 10px;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+h1{
+	color: #FF8601;
+	font-family: 'Oswald', sans-serif;
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+.main{
+	height: 100%;
+	width: 100%;
+	background-image: url(/felixhub/img/cork-wallet.png);
+	text-align: center;
+}
+.header{
+	background-color: #232f3e;
+	min-height: 10%;
+}
+form{
+	margin: auto;
+}
+form input{
+	margin: auto;
+}
+.navbar{
+	margin-bottom: 0px;
+}
+.navbar-nav{
+	font-weight: bold;
+}
+.navbar a{
+	color: #FFF;
+	
+}
+#sel1{
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+}
+.search_container{
+	padding: 40px;
+}
+#search_group{
+	width: 80%;
+}
+.search_select{
+	width: auto;
+	max-width: 5%;
+}
+.search_row{
+	margin-right: 0;
+}
+.footer{
+	background-color: #131a22;
+	min-height: 10%;
+}
+.footer .credits{
+	color: #ccc;
+	margin: auto;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+.login_menu{
+	width: 300px;
+}
+.login_menu{
+	padding: 10px;
+	
+}
+.login_menu .open{
+	background-color: #fff;
+}
+.login_menu p a{
+	color: #FF8601;
+	
+}
+.icon-bar{
+	background-color: #fff;
+}
+.navbar-toggle{
+	color: #fff;
+}
+.main a{
+	color: purple;
+}
+.form-horizontal input[type="text"], .form-horizontal input[type="password"]{
+	border-radius: 0px;
+	border: 1px solid #FF8601;
+}
+.btn-default{
+	background-color: #FF8601;
+	border: 1px solid #FF8601;
+}
+.form-horizontal input:focus{
+	border-radius: 4px;
+	border: 1px solid #131a22;
+}
