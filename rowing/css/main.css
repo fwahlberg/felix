@@ -1,0 +1,30 @@
+body{
+	background-image: url('/Pwatermark.png');
+	background-size: cover;
+}
+.container>#logo{
+	margin: auto;
+    display: table;
+    padding: 20px;
+}
+ form input[type='text']{
+ 	-webkit-box-shadow: inset 0 2px 3px #a4a4a4;
+ 	box-shadow: inset 0 2px 3px #a4a4a4;
+ 	border-radius: 0px; 
+ }   
+ form #error{
+ 	font-weight: bold;
+ 	font-size: 1.2em;
+ 	color: #b71234;
+ }
+#pangbutton{
+ 	border-radius: 0px;
+ 	background-color: #b71234;
+ 	border-color: #b71234;
+ 	width: 100%;
+ }
+@media print {
+   form{
+   	display: none;
+   }
+}
