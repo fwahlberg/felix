@@ -17,6 +17,9 @@ body{
  	font-size: 1.2em;
  	color: #b71234;
  }
+ table thead th{
+ 	cursor: pointer;
+ }
 #pangbutton{
  	border-radius: 0px;
  	background-color: #b71234;
