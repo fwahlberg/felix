@@ -1,3 +1,4 @@
+<?php $key = md5(microtime().rand()); ?>
 <!DOCTYPE html>
 <html lang="">
 	<head>
@@ -39,15 +40,15 @@
 						<div class="row">
 							<div class="form-group col-md-4 hrs">
 								<label for="">Hours</label>
-								<input type="text" class="form-control" id="hours" onkeyup="checknum(this)">
+								<input type="text" class="form-control time" id="hours" onkeyup="checknum(this)">
 							</div>
 							<div class="form-group col-md-4 mins">
 								<label for="">Minutes</label>
-								<input type="text" class="form-control" id="minutes" onkeyup="checknum(this)">
+								<input type="text" class="form-control time" id="minutes" onkeyup="checknum(this)">
 							</div>
 							<div class="form-group col-md-4 mins">
 								<label for="">Seconds</label>
-								<input type="text" class="form-control" id="seconds" onkeyup="checknum(this)">
+								<input type="text" class="form-control time" id="seconds" onkeyup="checknum(this)">
 							</div>
 						</div>
 						<div class="row">
@@ -56,14 +57,14 @@
 								<input type="text" class="form-control" id="distance" placeholder="Distance" onkeyup="checknum(this)" required>
 							</div>
 						</div>
-						
+						<input type="hidden" id="key" value="<?php echo $key; ?>">
 						<button onclick="calculator()" class="btn btn-primary" id="pangbutton">Submit</button>
 						<div class="row results" id="results">
 							
 						</div>
 					</form>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-8 print_wide">
 					<legend>Results</legend>
 					<div>
 						<table class="table table-hover">
@@ -78,7 +79,11 @@
 						</table>
 					</div>
 				</div>					
-				
+				<div class="row shareLink col-md-12" id="shareLink">	
+					<span>Once you are ready, share the results with your crew: </span>
+					<br>
+					<a href="/results/<?php echo $key;?>">http://pangbournerowing.com/results/<?php echo $key;?></a>
+				</div>
 			</div>
 		</div>
 		<!-- jQuery -->
@@ -87,5 +92,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="/js/main.js" type ="text/javascript"></script>
+		<script src="/js/sortTable.js" type ="text/javascript"></script>
+	</body>
 	</body>
 </html>

@@ -26,8 +26,20 @@ body{
  	border-color: #b71234;
  	width: 100%;
  }
+ .shareLink{
+ 	padding: 20px;
+ 	margin-top: 40px;
+ 	font-size: 1.2em;
+ 	text-align: center;
+ }
+ .shareLink span{
+ 	
+ }
 @media print {
    form{
    	display: none;
+   }
+   .col-md-8{
+   	width: 100%;
    }
 }
